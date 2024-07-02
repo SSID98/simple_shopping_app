@@ -29,7 +29,7 @@ There are no external dependencies required.
 
 2. Use the following command to clone the ProjectName repository:
 
-git clone https://github.com/SSID98/simple_shopping_app_hng.git
+https://github.com/SSID98/simple_shopping_app.git
 
 ### Configuration
 
